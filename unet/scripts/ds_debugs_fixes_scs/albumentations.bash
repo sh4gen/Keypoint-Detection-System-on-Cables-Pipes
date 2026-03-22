@@ -1,0 +1,1 @@
+python augment_cables_albu.py --images_dir "C:\Users\keylo\Desktop\LAP\dataset\without_augmentation_hm\train" --coco_json "C:\Users\keylo\Desktop\LAP\dataset\without_augmentation_hm\train\_annotations.coco.json" --output_dir "C:\Users\keylo\Desktop\LAP\dataset\train_augmented" --n_aug 8 --seed 42 --visualize
